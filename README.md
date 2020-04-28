@@ -1,5 +1,5 @@
 ## Getting the Dataset
-You can scrape the dataset by using this notebook: https://github.com/rwk506/CrashCatcher/blob/master/YouTube_scraping.ipynb
+You can scrape the dataset by using this notebook - it will download the dashcam video clips from YouTube: https://github.com/rwk506/CrashCatcher/blob/master/YouTube_scraping.ipynb
 
 ## Inspiration
 After watching the Tesla Autonomy Conference, I felt quite inspired to build an AI system which actually detects crashes from a standard dashcam in a vehicle (car).
